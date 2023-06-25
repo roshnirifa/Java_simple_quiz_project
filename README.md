@@ -10,6 +10,7 @@ This is a software system implemented in Java that allows admin to create and ma
 
 ## Pre requidtes
 - JDK 11
+- Simple JSON
 
 ## Functionalities
 - Admin users can:
@@ -35,6 +36,16 @@ This is a software system implemented in Java that allows admin to create and ma
 ## Files
 - users.json: Contains user information, including admin and student credentials.
 - quiz.json: Stores the questions, options, and answer keys for the quiz bank.
+
+## login credential
+
+- Admin:
+  - username: admin
+  - password: 1234
+
+- Student:
+  - username: rifa
+  - password: 1234
 
 
 ## How to run
