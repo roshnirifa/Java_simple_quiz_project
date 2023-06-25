@@ -69,16 +69,12 @@ public class QuizSystem {
 
     //add question function
     private static void addQuestions(Scanner scanner) throws IOException, ParseException {
-
-        //create login credential for user and admin
-        char ch = 's';
         String filePath = "./src/main/resources/quiz.json";
-        do {
+        JSONArray questionArray;
+        while (true) {
             JSONParser jsonParser = new JSONParser();
-            JSONArray questionArray = (JSONArray) jsonParser.parse(new FileReader(filePath));
+            questionArray = (JSONArray) jsonParser.parse(new FileReader(filePath));
             JSONObject questionObject = new JSONObject();
-
-            Scanner input = new Scanner(System.in);
 
             System.out.println("Input your question:");
             String question = scanner.nextLine();
@@ -107,19 +103,20 @@ public class QuizSystem {
             questionArray.add(questionObject);
             System.out.println(questionObject);
 
-            System.out.println("Saved successfully! Do you want to add more questions? (press 's' for start and 'q' for quit)");
 
-            //for saving the file
-            FileWriter fw = new FileWriter(filePath);
-            fw.write(String.valueOf(questionArray));
-            fw.flush();
-            fw.close();
-
-            ch = input.next().charAt(0);
-
+            System.out.println("Saved successfully! press 'q' for quit)");
+            String choice = scanner.nextLine();
+            if (choice.equalsIgnoreCase("q")) {
+                break;
+            }
         }
-        while (ch != 'q');
+
+        FileWriter fw = new FileWriter(filePath);
+        fw.write(String.valueOf(questionArray));
+        fw.flush();
+        fw.close();
     }
+
 
 
     // Play quiz function for students

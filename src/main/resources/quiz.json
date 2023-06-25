@@ -238,5 +238,13 @@
     "question": "Which of the following is not a part of Performance Testing?",
     "option 1": "Measuring Transaction Rate",
     "option 2": "Measuring Response Time."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "employee knowledge",
+    "question": "service assurance is?",
+    "option 1": "confidence with customer",
+    "option 2": "customer has trus",
+    "option 4:": "all of above"
   }
 ]
