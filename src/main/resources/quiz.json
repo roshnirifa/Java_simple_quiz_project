@@ -1,0 +1,242 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "failure mode analysis",
+    "option 4": "none of the mentioned",
+    "question": "Which of the following is not included in failure costs?",
+    "option 1": "rework",
+    "option 2": "repair"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "audits and reviews to be performed",
+    "option 4": "documents to be produced by the SQA group",
+    "question": "Which of the following is not a SQA plan for a project?",
+    "option 1": "evaluations to be performed",
+    "option 2": "amount of technical work"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Quality Assurance",
+    "option 4": "None of the mentioned",
+    "question": "Degree to which design specifications are followed in manufacturing the product is called?",
+    "option 1": "Quality Control",
+    "option 2": "Quality of conformance"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "warranty work",
+    "option 4": "complaint resolution",
+    "question": "Which of the following is not included in External failure costs?",
+    "option 1": "testing",
+    "option 2": "help line support"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "quality planning",
+    "option 4": "testing",
+    "question": "Which of the following is not an appraisal cost in SQA?",
+    "option 1": "inter-process inspection",
+    "option 2": "maintenance"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "SQA group",
+    "option 4": "All of the mentioned",
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project manager",
+    "option 2": "Project team"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "failure cause",
+    "option 4": "none of the mentioned",
+    "question": "The primary objective of formal technical reviews is to find _________ during the process so that they do not become defects after release of the software.",
+    "option 1": "errors",
+    "option 2": "equivalent faults"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "test equipment",
+    "option 4": "equipment calibration and maintenance",
+    "question": "What is not included in prevention costs?",
+    "option 1": "quality planning",
+    "option 2": "formal technical reviews"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Software failure",
+    "option 4": "None of the mentioned",
+    "question": "Non-conformance to software requirements is known as",
+    "option 1": "Software availability",
+    "option 2": "Software reliability"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Quality of testing",
+    "option 4": "None of the mentioned",
+    "question": "The degree to which the design specifications are followed during manufacturing is known as...",
+    "option 1": "Quality of design",
+    "option 2": "Quality of conformance"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Developer's & User's end",
+    "option 4": "None of the mentioned",
+    "question": "Alpha testing is done at",
+    "option 1": "Developer's end",
+    "option 2": "User's end"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "White Box & Black Box Testing",
+    "option 4": "None of the mentioned",
+    "question": "Boundary value analysis belong to?",
+    "option 1": "White Box Testing",
+    "option 2": "Black Box Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Integration Testing",
+    "option 4": "All of the mentioned",
+    "question": "What are the various Testing Levels?",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Condition Coverage",
+    "option 4": "All of the mentioned",
+    "question": "Which of the following are White box technique?",
+    "option 1": "Statement Testing",
+    "option 2": "Decision Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "impractical but possible",
+    "option 4": "impractical and impossible",
+    "question": "Exhaustive testing is....",
+    "option 1": "always possible",
+    "option 2": "practically possible"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Error guessing technique",
+    "option 4": "None of the mentioned",
+    "question": "White Box techniques are also classified as....",
+    "option 1": "Design based testing",
+    "option 2": "Structural testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Red box testing",
+    "option 4": "Green box testing",
+    "question": "The testing in which code is checked...",
+    "option 1": "Black box testing",
+    "option 2": "White box testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Alpha Testing",
+    "option 4": "Beta testing",
+    "question": "Acceptance testing is also known as...",
+    "option 1": "Grey box testing",
+    "option 2": "White box testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit testing",
+    "option 4": "None of the mentioned",
+    "question": "Which of the following is non-functional testing?",
+    "option 1": "Black box testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "User's & Developer's end",
+    "option 4": "None of the mentioned",
+    "question": "Beta testing is done at...",
+    "option 1": "User's end",
+    "option 2": "Developer's end"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Customers",
+    "option 4": "None of the mentioned",
+    "question": "Unit testing is done by",
+    "option 1": "Users",
+    "option 2": "Developers"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Grey box testing",
+    "option 4": "None of the mentioned",
+    "question": "Behavioral testing is...",
+    "option 1": "White box testing",
+    "option 2": "Black box testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Validation Testing",
+    "option 4": "Both Alpha and Beta",
+    "question": "In which testing level the focus is on customer usage?",
+    "option 1": "Alpha Testing",
+    "option 2": "Beta Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Completion of Testing",
+    "option 4": "Regression Testing",
+    "question": "What is normally considered as an adjunct to the coding step?",
+    "option 1": "Integration testing",
+    "option 2": "Unit testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Procedure errors",
+    "option 4": "None of the above",
+    "question": "What is the main purpose of integration testing?",
+    "option 1": "Design errors",
+    "option 2": "Interface errors"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Unit testing",
+    "option 4": "None of the above",
+    "question": "Testing of individual components by the developers are comes under which type of testing?",
+    "option 1": "Integration testing",
+    "option 2": "Validation testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Boundary Value Analysis",
+    "option 4": "None of the above.",
+    "question": " _____ is a white-box testing technique first proposed by Tom McCabe?",
+    "option 1": "Equivalence Partitioning",
+    "option 2": "Basis Path Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "During review",
+    "option 4": "Throughout life-cycle",
+    "question": "When the Testing Principles are useful while building the Software Product?",
+    "option 1": "During testing",
+    "option 2": "During execution"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Measuring the LOC",
+    "option 4": "None of the above",
+    "question": "Which of the following is not a part of Performance Testing?",
+    "option 1": "Measuring Transaction Rate",
+    "option 2": "Measuring Response Time."
+  }
+]
